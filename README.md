@@ -72,7 +72,7 @@ curl --silent https://www.yoursite.com/cron
 ## Receiving leads:
 Submit a post request to the url below:
 ```bash
-https://www.yoursite.com/insert-lead
+https://www.yoursite.com/lead-insert
 ```
 With the following fields:
 ```bash

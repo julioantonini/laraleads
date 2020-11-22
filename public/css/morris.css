@@ -1,0 +1,38 @@
+.morris-hover{position:absolute;z-index:1000}.morris-hover.morris-default-style{border-radius:10px;padding:6px;color:#666;background:rgba(255,255,255,0.8);border:solid 2px rgba(230,230,230,0.8);font-family:sans-serif;font-size:12px;text-align:center}.morris-hover.morris-default-style .morris-hover-row-label{font-weight:bold;margin:0.25em 0}
+.morris-hover.morris-default-style .morris-hover-point{white-space:nowrap;margin:0.1em 0}
+@media print{.morris-hover{display:none}}
+
+
+
+
+.morris-chart-height {
+  height: 300px
+}
+
+.morris-hover.morris-default-style {
+  border-radius: 5px;
+  padding: 10px 12px;
+  background: #fff;
+  border: none;
+  -webkit-box-shadow: 0 5px 25px 5px rgba(0, 0, 0, .14);
+  box-shadow: 0 5px 25px 5px rgba(0, 0, 0, .14);
+  font-family: Nunito, sans-serif
+}
+
+.morris-hover.morris-default-style .morris-hover-point {
+  font-weight: 500;
+  font-size: 14px;
+  color: #41444d !important
+}
+
+.morris-hover.morris-default-style .morris-hover-row-label {
+  background-color: #313131;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px 5px 0 0;
+  margin: -10px -12px 10px
+}
+
+.morris-charts text {
+
+}

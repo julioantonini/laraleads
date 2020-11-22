@@ -1,0 +1,9 @@
+{
+    "/build/app.js": "/build/app.js",
+    "/build/app.css": "/build/app.css",
+    "/build/vendor.min.css": "/build/vendor.min.css",
+    "/build/style.min.css": "/build/style.min.css",
+    "/build/vendor.min.js": "/build/vendor.min.js",
+    "/build/scripts.min.js": "/build/scripts.min.js",
+    "/build/style-login.min.css": "/build/style-login.min.css"
+}

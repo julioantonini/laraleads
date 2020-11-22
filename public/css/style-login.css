@@ -1,0 +1,44 @@
+body {
+  background: rgb(43, 132, 170);
+  background: -moz-linear-gradient(top, rgba(43, 132, 170, 1) 0%, rgba(29, 88, 114, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(43, 132, 170, 1) 0%, rgba(29, 88, 114, 1) 100%);
+  background: linear-gradient(to bottom, rgba(43, 132, 170, 1) 0%, rgba(29, 88, 114, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2b84aa', endColorstr='#1d5872', GradientType=0);
+  min-width: 320px;
+
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.login_container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.login_container__content {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.login_container__img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
